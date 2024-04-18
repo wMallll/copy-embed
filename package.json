@@ -1,0 +1,19 @@
+{
+    "name": "embed-builder-again",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "watch": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^14.14.1"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.0"
+    }
+}
