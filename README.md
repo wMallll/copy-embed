@@ -1,6 +1,6 @@
 # 🤖 Discord Bot - Copy Embed System
 > Copy and paste embeds from anywhere on Discord!
-## Requeriments
+## 💻 Requeriments
 1. Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**  
 2. Node.js 18.20.1 or newer
 ## 🚀 Getting Started
